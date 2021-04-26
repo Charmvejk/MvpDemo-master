@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<paras>
+    <para>
+        <name>PCount</name>
+        <sqldbtype>BigInt</sqldbtype>
+        <value>0</value>
+    </para>
+    <para>
+        <name>RCount</name>
+        <sqldbtype>BigInt</sqldbtype>
+        <value>0</value>
+    </para>
+    <para>
+        <name>sys_Table</name>
+        <sqldbtype>NVarChar</sqldbtype>
+        <value>view_table_list_release</value>
+    </para>
+    <para>
+        <name>sys_Key</name>
+        <sqldbtype>VarChar</sqldbtype>
+        <value>tableid</value>
+    </para>
+    <para>
+        <name>sys_Fields</name>
+        <sqldbtype>NVarChar</sqldbtype>
+        <value>
+            tableid,dbname,tablename,tablecname,tablecode,abstract,src_dw,theme,name,operationdatetime,org_name,theme_name,table_rows
+        </value>
+    </para>
+    <para>
+        <name>sys_Where</name>
+        <sqldbtype>NVarChar</sqldbtype>
+        <value>1=1 and dbname=JnsFrk</value>
+    </para>
+    <para>
+        <name>sys_Order</name>
+        <sqldbtype>NVarChar</sqldbtype>
+        <value>tablename DESC</value>
+    </para>
+    <para>
+        <name>sys_PageIndex</name>
+        <sqldbtype>Int</sqldbtype>
+        <value>0</value>
+    </para>
+    <para>
+        <name>sys_PageSize</name>
+        <sqldbtype>Int</sqldbtype>
+        <value>50</value>
+    </para>
+
+</paras>

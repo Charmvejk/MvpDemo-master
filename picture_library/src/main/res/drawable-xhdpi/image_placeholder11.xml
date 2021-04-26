@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <size
+                android:width="700dp"
+                android:height="400dp"></size>
+            <solid android:color="#e8e8e8"></solid>
+        </shape>
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/image"></bitmap>
+
+    </item>
+</layer-list>

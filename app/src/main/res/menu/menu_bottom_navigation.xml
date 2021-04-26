@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:title="资源"
+        android:icon="@mipmap/icon_zy_unselect"/>
+
+    <item
+        android:id="@+id/action_explore"
+        android:title="首页"
+        android:icon="@mipmap/icon_main_unselect"/>
+
+    <item
+        android:id="@+id/action_me"
+        android:title="统计"
+        android:icon="@mipmap/icon_tongji_unselect"/>
+
+</menu>

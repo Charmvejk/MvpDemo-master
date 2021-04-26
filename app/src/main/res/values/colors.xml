@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976d2</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--MainActivity 主题颜色 -->
+    <color name="colorMainDrawerPrimary">#FE9B00</color>
+    <color name="colorMainDrawerPrimaryDark">#FE9B00</color>
+    <color name="colorMainDrawerAccent">#FE9B00</color>
+    <color name="gray">#3F51B5</color>
+    <color name="grayt">#1976d2
+    </color>
+
+    <color name="gray2">#999</color>
+    <color name="white">#ffffff</color>
+    <color name="color_f6">#f6f6f6</color>
+    <color name="layout_dark">#fff4f4f4</color>
+    <color name="layout_gray">#3F51B5</color>
+    <color name="layout_light">#ffffffff</color>
+    <color name="gray1">#cdcdcd</color>
+    <!--Toolbar Back 颜色-->
+    <color name="green_rgb_19_225_253">#13E1FD</color>
+    <color name="green_rgb_40_220_162">#28DCA2</color>
+    <color name="blue_rgba_24_261_255">#17A1FF</color>
+    <color name="red_rgb_255_127_87">#FF7F57</color>
+    <color name="main_green">#7EC501</color>
+    <color name="yellow_sharder">#4DFDCA4E</color>
+    <color name="blue_sharder">#CC17A1FF</color>
+    <color name="color_toolbar_appbar_bg">#FE9B00</color>
+    <color name="color_toolbar_text">#FFFFFF</color>
+    <color name="color_main_toolbar_appbar_bg">#FE9B00</color>
+    <color name="colorMainGreen">#40cab3</color>
+    <color name="background_gray">#ebebeb</color>
+    <color name="orange">#FFBB4D</color>
+    <!--   ~~~~~~~~~~~~~~~~~~  登录    ~~~~~~~~~~~~~~~~~~~~~~     -->
+    <!--登录输入框 选中 未选中状态 字体的颜色-->
+    <color name="tab_login_press">#FE9B00</color>
+    <color name="tab_login_nor">#3F51B5</color>
+    <!--登录输入框 选中 未选中状态 下划线的颜色-->
+    <color name="login_edit_selector_bgColor1">#FE9B00</color>
+    <color name="login_edit_selector_bgColor2">#FE9B00</color>
+    <color name="login_edit_selector_bgColor3">#FE9B00</color>
+    <!--登陆输入框光标颜色-->
+    <color name="login_edit_cursor_color">#FE9B00</color>
+    <color name="red_2">#F76567</color>
+    <!--Button 通用颜色-->
+    <color name="color_btn_bg">#FE9B00</color>
+    <color name="color_btn_bg2">#FE6B00</color>
+
+    <!--登录按钮的背景颜色-->
+    <color name="color_login_btn_bg">#FE9B00</color>
+    <!--登录界面 忘记密码 新用户注册 文字的颜色-->
+    <color name="color_login_text">#FE9B00</color>
+    <color name="progress_color_default">#00C5CD</color>
+
+    <color name="good1">#fc8675</color>
+    <color name="good2">#6bafbd</color>
+    <color name="good3">#e6c757</color>
+    <color name="good4">#65a8ec</color>
+    <color name="good5">#65cea7</color>
+</resources>
